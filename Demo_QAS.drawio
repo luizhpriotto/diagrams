@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-04T23:26:33.211Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="HfmAY3p79um6q-2_NVJF" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-04T23:30:50.701Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="fmWtcP80ZJYI3_6DvcWR" version="14.5.7" type="github">
   <diagram id="ShLdLx_JURsUwTE09lhC" name="Page-1">
     <mxGraphModel dx="1108" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,7 +114,7 @@
             <mxPoint x="750" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P0ToA0jeGXrLK8n9xBZz-37" value="Cluster Demo" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="P0ToA0jeGXrLK8n9xBZz-37" value="Cluster Demo (Kubernetes)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="807" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="P0ToA0jeGXrLK8n9xBZz-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="P0ToA0jeGXrLK8n9xBZz-39" target="P0ToA0jeGXrLK8n9xBZz-42" edge="1">
