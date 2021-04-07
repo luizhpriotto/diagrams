@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-07T02:42:52.512Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="cxUo5tgMH6zMYN8evJ_6" version="14.5.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-07T04:33:27.575Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="HZdimmasvxMhJZj5AeJT" version="14.5.7" type="github" pages="2">
   <diagram id="ShLdLx_JURsUwTE09lhC" name="Page-1">
     <mxGraphModel dx="1368" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -327,7 +327,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="c3CSjbJQt7s5zEYipkvq" name="Page-2">
-    <mxGraphModel dx="2195" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2195" dy="1975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="E8iLMPXJ4056ogxymW7h-0" />
         <mxCell id="E8iLMPXJ4056ogxymW7h-1" parent="E8iLMPXJ4056ogxymW7h-0" />
@@ -495,6 +495,9 @@
         </mxCell>
         <mxCell id="E8iLMPXJ4056ogxymW7h-85" value=".env" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="E8iLMPXJ4056ogxymW7h-1">
           <mxGeometry x="10" y="397" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WijxmOHoJGpexbQVDhOK-1" value="&lt;font size=&quot;1&quot; style=&quot;line-height: 80%&quot;&gt;1 - git clone&lt;br&gt;2 - copiar .env&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="E8iLMPXJ4056ogxymW7h-1">
+          <mxGeometry x="-20" y="-10" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
